@@ -23,7 +23,7 @@ These instructions allow to run locally to modify the sample.
 
 ### Setup
 
-The following commands are a 1-time setup after synching the repo on your machine.
+The following commands are a 1-time setup after syncing the repo on your machine.
 
 * install [node.js](https://nodejs.org/en/)
 
